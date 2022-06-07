@@ -9,7 +9,7 @@
 ---
 
 # Hello 👋, I'm VickeyFeng🤵‍
-> I come from 🏠 Foshan, Guangdong, China🇨🇳, I am a working ** front-end development engineer **, interested in all Internet technologies🌟
+> I come from 🏠 Foshan, Guangdong, China🇨🇳, I am a working **front-end development engineer**, interested in all Internet technologies🌟
 
 - Can use `vue.js` for front-end development
 - Responsible for the development of Wechat `mini-program` projects
