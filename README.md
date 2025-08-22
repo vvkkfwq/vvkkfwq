@@ -1,24 +1,78 @@
-# 你好👋，我是VickeyFeng🤵‍
-> 我来自🏠广东佛山，中国🇨🇳，是一位在职**前端开发工程师**，对于一切的互联网技术都充满兴趣🌟
 
-- 会使用 `Vue.js` 进行前端开发
-- 进行过微信小程序项目的开发
-- 参与过 `JSP` 项目的维护与研发
-- 正在持续学习以及进步当中😁～
+## 👋 Hi there! Welcome to my GitHub profile
 
----
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=60&fontAlign=50&fontColor=fff)
 
-# Hello 👋, I'm VickeyFeng🤵‍
-> I come from 🏠 Foshan, Guangdong, China🇨🇳, I am a working **front-end development engineer**, interested in all Internet technologies🌟
+### 🚀 About Me
 
-- Can use `vue.js` for front-end development
-- Responsible for the development of Wechat `mini-program` projects
-- Participated in the maintenance and research and development of `JSP` project
-- Learning and improving 😁 ~
+🌟 **Hello! I'm vvkkfwq, a passionate developer and lifelong learner.**  
+I love tackling new challenges, contributing to open source, and building tools that make life easier for others.
 
 ---
 
-欢迎浏览我的个人主页  
-Welcome to my personal homepage   
-👇👇👇  
-🔗 www.vvkkfwq.top
+### 🛠️ Core Tech Stack
+
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=black)
+
+- **Library & Framework:**  
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+
+- **Other Tools:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+---
+
+### 🏫 Affiliation
+
+- University of Queensland
+
+---
+
+### 🌱 Currently Learning
+
+- Machine Learning
+- Data Mining
+- Natural Language Process
+- Information Retrieval
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvkkfwq&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight" alt="GitHub Streak" />
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+- Website: [www.vvkkfwq.top](https://www.vvkkfwq.top)
+
+---
+
+### 📝 Projects
+
+Explore all my projects and contributions in my repositories!
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to interesting collaborations and new opportunities.  
+Feel free to explore my repositories or reach out—let's build something amazing together!
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vvkkfwq&style=flat-square" alt="Profile Views" />
+</div>
