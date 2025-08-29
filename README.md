@@ -6,7 +6,10 @@
 ### 🚀 About Me
 
 🌟 **Hello! I'm vvkkfwq, a passionate developer and lifelong learner.**  
-I love tackling new challenges, contributing to open source, and building tools that make life easier for others.
+- 🎓 Graduate Student in Software Engineering
+- 📖 Research Interests: Machine Learning / NLP / Data Mining
+
+**I love tackling new challenges, contributing to open source, and building tools that make life easier for others.**
 
 ---
 
@@ -49,7 +52,7 @@ I love tackling new challenges, contributing to open source, and building tools 
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight" alt="GitHub Streak" />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 ---
