@@ -48,11 +48,36 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-flax-three-41.vercel.app/api?username=vvkkfwq&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight" alt="GitHub Streak" />
-  </br>
-  <img src="https://github-readme-stats-flax-three-41.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="60%">
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vvkkfwq">
+        <img src="https://github-readme-stats-flax-three-41.vercel.app/api?username=vvkkfwq&show_icons=true&count_private=true&theme=tokyonight" alt="vvkkfwq's GitHub Stats" height="180">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vvkkfwq">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight" alt="GitHub Streak" height="180">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/vvkkfwq">
+  <img src="https://github-readme-stats-flax-three-41.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="50%" />
+</a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="60%">
 </p>
 
 ---
