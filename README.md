@@ -16,17 +16,21 @@
 ### 🛠️ Core Tech Stack
 
 - **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=JavaScript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?logo=JavaScript&logoColor=black)
 
-- **Library & Framework:**  
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+- **AI & ML Frameworks:**  
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+- **Front-end Framework:**  
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
 
 - **Other Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white)
 
 ---
 
