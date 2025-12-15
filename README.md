@@ -70,7 +70,7 @@
 <br/>
 
 <a href="https://github.com/vvkkfwq">
-  <img src="https://github-readme-stats-flax-three-41.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-flax-three-41.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="50%" />
 </a>
 
 </div>
