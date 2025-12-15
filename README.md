@@ -66,7 +66,7 @@
     </td>
     <td>
       <a href="https://github.com/vvkkfwq">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight" alt="GitHub Streak" height="180">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight&hide_longest_streak=true" alt="GitHub Streak" height="180">
       </a>
     </td>
   </tr>
