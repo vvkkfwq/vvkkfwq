@@ -61,12 +61,7 @@
   <tr>
     <td>
       <a href="https://github.com/vvkkfwq">
-        <img src="https://github-readme-stats-flax-three-41.vercel.app/api?username=vvkkfwq&show_icons=true&count_private=true&theme=tokyonight" alt="vvkkfwq's GitHub Stats" height="180">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vvkkfwq">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvkkfwq&theme=tokyonight&hide_longest_streak=true" alt="GitHub Streak" height="180">
+        <img src="https://github-readme-stats-flax-three-41.vercel.app/api?username=vvkkfwq&show_icons=true&count_private=true&theme=tokyonight" alt="vvkkfwq's GitHub Stats">
       </a>
     </td>
   </tr>
@@ -75,7 +70,7 @@
 <br/>
 
 <a href="https://github.com/vvkkfwq">
-  <img src="https://github-readme-stats-flax-three-41.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-flax-three-41.vercel.app/api/top-langs/?username=vvkkfwq&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="45%" />
 </a>
 
 </div>
